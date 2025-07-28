@@ -1,6 +1,6 @@
 # Integrating Variational Autoencoders and Generative Adversarial Networks into the BRIDGE Framework for Simulating Unseen Perturbations
 
-**Author:** Manus AI  
+**Author:** Tommy W. Terooatea 
 **Date:** July 28, 2025  
 **Version:** 1.0
 
